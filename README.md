@@ -29,6 +29,11 @@
         - Github no problem!
         - Discord @ Youssef A Fdez#9372
 
+- 🌍 Languages I can speak:
+        - Spanish
+        - English
+        - Catalan
+
 <!---
 YoussefAFdez/YoussefAFdez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
